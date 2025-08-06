@@ -1,0 +1,1 @@
+![Анимация CORDIC](cordic_animation.gif)
